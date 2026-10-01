@@ -1,0 +1,6 @@
+{
+  "name": "학사 강의평가 아카이브 & 엑셀 매니저",
+  "description": "교수명, 강의명, 평점, 세부 루브릭 및 상세 강의평가를 작성·관리하고 엑셀(.xlsx, .csv)로 저장 및 불러올 수 있는 강의평가 관리 웹 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
